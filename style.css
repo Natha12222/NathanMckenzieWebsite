@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.roboto {
+	
+	font-family: 'Roboto Mono', monospace;
+}
+
+
+
+.back-g {
+	background: url("https://cdn.glitch.global/fb7f5147-c4f8-4934-bea3-398d307fb751/BACK-G-1.jpg?v=1666953908474")
+	no-repeat;
+	
+}
